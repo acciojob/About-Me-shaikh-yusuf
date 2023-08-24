@@ -1,1 +1,20 @@
+.name{
+	display:flex;
+	justify-content:space-around;
+}
+img{
+	height:15px;
+	width:15px;
+}
+.backImage{
+	width:300px;
+	height:300px;
+}
 
+.skills{
+	display:flex;
+	justify-content:space-between
+}
+.skills{
+	border-bottom:5px solid green;
+}
